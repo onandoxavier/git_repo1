@@ -1,0 +1,6 @@
+# Ignorar arquivos de log
+*.log
+# Ignorar diretório de dados
+data/
+# Ignorar arquivos de configuração
+config.yaml
